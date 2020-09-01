@@ -1,0 +1,105 @@
+#img1{
+
+   border-radius: 50%;
+   width: 90px;
+   height: 60px;
+
+}
+
+#img2{
+
+  border-radius: 50%;
+  width: 90px;
+  height: 60px
+
+}
+
+
+#input1{
+
+         background-color:white;
+         border-radius: 5%;
+         border-width: 1px;
+
+         width:50%;
+         line-height: 100%;
+
+}
+
+#li2,#li3,#li4,#li5,#li6,#li7,#li8{
+
+  display: block;
+
+
+  border: 1px solid pink;
+  border-width: 80%;
+
+  border-radius: 5%;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding: 15px;
+
+  text-align: center;
+  color: brown;
+}
+
+#li2:hover,#li3:hover,#li4:hover,#li5:hover,#li7:hover,#li8:hover{
+
+    border-color: brown;
+}
+
+#nav1{
+  background-color: pink;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+#ul1
+{
+    margin-left: 15px;
+    width: 1200px;
+}
+#ul2{
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: 0px;
+        margin-right: 0px;
+}
+
+#ul3 a{
+        display: block;
+}
+
+#li6 :hover #ul3{
+        display: block;
+}
+
+#ul3 a:hover{
+              background: #666;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color:black;
+}
+
+.top-right {
+  position: absolute;
+  top: 2px;
+  right: 47px;
+
+}
+.bottom-right {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  top: 90%
+}
